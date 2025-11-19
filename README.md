@@ -1,4 +1,4 @@
-# # Algorithm of Thought (AoT) Prompting
+# # Algorithm of Thought (AoT) Prompting -> Think in Math , Write in Code . 
 
 ## Overview
 
@@ -60,6 +60,7 @@ The bigger the numbers or more complex the operation, the worse models get at "p
 |-------|---------------------|-------------------------------|
 | **Gemini 2.5 Flash** | 96%  | 92% |
 | **GPT-3.5 Turbo** | 86%  | 85% |
+| **GPT-4o**        | 84.8% | 84.4% |
 
 *Evaluated on 250 problems from the GSM8K mathematical reasoning benchmark*
 
