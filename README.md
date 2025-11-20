@@ -1,4 +1,4 @@
-# Code of Thought (AoT) Prompting -> Think in Math , Write in Code . 
+# Code of Thought (CoT) Prompting -> Think in Math , Write in Code . 
 
 ## Overview
 
