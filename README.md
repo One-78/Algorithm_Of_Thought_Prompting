@@ -1,8 +1,8 @@
-# # Algorithm of Thought (AoT) Prompting -> Think in Math , Write in Code . 
+# Code of Thought (AoT) Prompting -> Think in Math , Write in Code . 
 
 ## Overview
 
-Algorithm of Thought (AoT) is a two-stage prompting technique that separates **algorithmic planning** from **code implementation**. Instead of asking the model to solve a problem directly, it first creates a structured plan, then converts that plan into executable code.
+Code of Thought (AoT) is a two-stage prompting technique that separates **algorithmic planning** from **code implementation**. Instead of asking the model to solve a problem directly, it first creates a structured plan, then converts that plan into executable code.
 
 ---
 
@@ -16,7 +16,7 @@ The model takes the algorithm from Stage 1 and converts it into executable Pytho
 
 ---
 
-## Why Algorithm of Thought Works
+## Why Code of Thought Works
 
 ### 1. **Logical Thinking First**
    - The model focuses on understanding the problem structure before solving it
